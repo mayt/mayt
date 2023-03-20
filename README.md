@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mayt
-- 👀 I’m interested in startups, venture captial, AI, crypto and building things people love
-- 🌱 I’m currently learning the details of GPT-3 and Stable Diffusion, and surfing
+- 🖐️ Hi, I'm @mayt
+- 🧐 I'm passionate about startups, venture capital, AI, cryptocurrency, and creating products people love
+- 🌱 I'm presently diving into GPT-3 and Stable Diffusion, as well as hitting the waves and surfing
 
 
 <!---
